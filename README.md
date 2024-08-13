@@ -1,5 +1,3 @@
-# school-management-backend
-
 # School Management Backend
 
 ## Overview
