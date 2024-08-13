@@ -35,7 +35,7 @@ This is the backend of the School Management App, built using Node.js, Express, 
     - Create a `.env` file in the root directory.
     - Add the following variables:
     ```env
-    URI = "mongodb+srv://imendhaoui02:u3aHBVDJMZrwskV6@cluster0.oothz.mongodb.net/"
+    URI = "sent in email"
     ```
 
 4. **Start the server**:
